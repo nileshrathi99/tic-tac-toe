@@ -24,3 +24,13 @@
 
 Overall, this code provides the basic functionality for a two-player Tic-Tac-Toe game, allowing players to take turns, detecting wins and draws, and enabling game restarts.
 
+
+<img width="500" alt="image" src="https://github.com/nileshrathi99/tic-tac-toe/assets/32071800/da5c4490-1ad8-4959-8192-8e8cafaa4884">
+
+<img width="500" alt="image" src="https://github.com/nileshrathi99/tic-tac-toe/assets/32071800/05094692-3b68-4280-8c11-0caf14516be9">
+
+<img width="500" alt="image" src="https://github.com/nileshrathi99/tic-tac-toe/assets/32071800/5d511ca0-8442-4d06-84b7-2dfacb22ab85">
+
+<img width="500" alt="image" src="https://github.com/nileshrathi99/tic-tac-toe/assets/32071800/bedc4264-dc27-4e25-b718-5dcd71a33e2f">
+
+
